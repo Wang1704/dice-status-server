@@ -1,0 +1,20 @@
+{
+  "name": "dice-status-server",
+  "version": "1.0.0",
+  "description": "Server to sync dice status between devices",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "your-github-repo-url"
+  }
+} 
